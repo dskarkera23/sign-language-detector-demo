@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.d6c4a322-dafb-11ee-8f14-70cf49ec441b.jpg</filename>
+	<path>C:\Users\sjkar\Desktop\Sign language Detector\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.d6c4a322-dafb-11ee-8f14-70cf49ec441b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>90</ymin>
+			<xmax>350</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>
